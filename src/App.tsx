@@ -1,6 +1,8 @@
 import React, { useCallback, useEffect, useRef, useState } from "react";
 import logo from "./logo.svg";
 import "./App.css";
+
+
 //import MapGL, { Source, Layer } from 'react-map-gl';
 import Map, {
   Layer,
@@ -20,7 +22,7 @@ import styles from "./styles.module.css";
 import mapboxgl from "mapbox-gl";
 import mockData from "./mockData.json";
 
-const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN; // mapbox token here
+const MAPBOX_TOKEN = process.env.REACT_APP_MAPBOX_TOKEN // mapbox token here
 
 interface Marker {
   id: number;
