@@ -1,0 +1,23 @@
+[
+    {
+       "id": 1,
+       "name": "Marker 1",
+       "description": "This is marker 1",
+       "latitude": 37.7749,
+       "longitude": -122.4194
+    },
+    {
+       "id": 2,
+       "name": "Marker 2",
+       "description": "This is marker 2",
+       "latitude": 37.7749,
+       "longitude": -122.4253
+    },
+    {
+       "id": 3,
+       "name": "Marker 3",
+       "description": "This is marker 3",
+       "latitude": 37.7749,
+       "longitude": -122.4253
+    }
+ ]
