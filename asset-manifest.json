@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-mapbox/static/css/main.d9c5ce0a.css",
+    "main.js": "/react-mapbox/static/js/main.bad87be2.js",
+    "static/js/787.e773ec69.chunk.js": "/react-mapbox/static/js/787.e773ec69.chunk.js",
+    "service-worker.js": "/react-mapbox/service-worker.js",
+    "index.html": "/react-mapbox/index.html",
+    "main.d9c5ce0a.css.map": "/react-mapbox/static/css/main.d9c5ce0a.css.map",
+    "main.bad87be2.js.map": "/react-mapbox/static/js/main.bad87be2.js.map",
+    "787.e773ec69.chunk.js.map": "/react-mapbox/static/js/787.e773ec69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9c5ce0a.css",
+    "static/js/main.bad87be2.js"
+  ]
+}
