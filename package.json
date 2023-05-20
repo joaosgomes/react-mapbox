@@ -1,7 +1,7 @@
 {
   "name": "react-mapbox",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://joaosgomes.github.io/react-mapbox",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
